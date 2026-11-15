@@ -1,0 +1,1 @@
+# No third-party packages required. Tkinter and SQLite are in the Python standard library.
